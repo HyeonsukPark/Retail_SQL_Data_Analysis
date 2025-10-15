@@ -8,6 +8,9 @@ DataCoSupplyChainDataset : [Dataset link](https://data.mendeley.com/datasets/8gx
 
 Constante, Fabian; Silva, Fernando; Pereira, António (2019), “DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS”, Mendeley Data, V5, doi: 10.17632/8gx2fvg2k6.5
 
+## Tool  
+SQL Server Management Studio 2022 program with MS SQL Server
+
 
 ## Dataset Preparation 
 For the data analysis of Global's Supply Chain dataset, the following preparatory steps were executed to refine the data structure and ensure data quality:
