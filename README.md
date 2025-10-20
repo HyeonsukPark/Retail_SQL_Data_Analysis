@@ -47,7 +47,8 @@ The image added explains the entire schema.
 
 [ Star Schema generated using PowerBI tool ] 
 
-<img width="1155" height="761" alt="image" src="https://github.com/user-attachments/assets/439fbee9-ed95-4225-86ed-b80e05f08e2d" />
+<img width="1162" height="749" alt="image" src="https://github.com/user-attachments/assets/5e38e7ee-90c2-4f87-a7c0-334018b2fe7c" />
+
 
 
 
