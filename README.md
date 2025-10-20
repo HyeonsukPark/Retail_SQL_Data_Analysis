@@ -41,9 +41,13 @@ This process ensures the dataset is clean, well-structured, and ready for subseq
 
 
 ## Database with Star Schema  
-The dataset was also organized as a star schema. The schema is composed of one central Fact Table and four surrounding Dimension Tables, with Dim_Customer, Dim_Product, Dim_Order, and Dim_Shipment. This structure efficiently separates measurable sales data from descriptive attributes. The four Dimension Tables are linked to the central Fact_Sales table using unique Surrogate Keys (Primary Keys in the Dimension tables, Foreign Keys in the Fact table). 
+The dataset was also organized as a star schema. The schema is composed of one central Fact Table and seven surrounding Dimension Tables, with Dim_Customer, Dim_Product, Dim_Category, Dim_department, Dim_Date, Dim_Order, and Dim_Shipping. This structure efficiently separates measurable sales data from descriptive attributes. The seven Dimension Tables are linked to the central Fact_Sales table using unique Surrogate Keys (Primary Keys in the Dimension tables, Foreign Keys in the Fact table). 
 
 The image added explains the entire schema.  
 
-<img width="842" height="721" alt="image" src="https://github.com/user-attachments/assets/07393a16-e363-4104-b766-ea27f6e0ac8a" />
+[ Star Schema generated using PowerBI tool ] 
+
+<img width="1155" height="761" alt="image" src="https://github.com/user-attachments/assets/439fbee9-ed95-4225-86ed-b80e05f08e2d" />
+
+
 
