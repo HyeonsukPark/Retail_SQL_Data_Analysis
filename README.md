@@ -49,6 +49,12 @@ The image added explains the entire schema.
 
 <img width="1162" height="749" alt="image" src="https://github.com/user-attachments/assets/5e38e7ee-90c2-4f87-a7c0-334018b2fe7c" />
 
+## Power BI Dashboard 
+
+<img width="1333" height="751" alt="PowerBI_Analysis_1" src="https://github.com/user-attachments/assets/4ad63f1b-359e-410b-8ab9-7d272456ee1e" />
+
+<img width="1342" height="754" alt="PowerBI_Analysis_2" src="https://github.com/user-attachments/assets/6c245eff-9014-45e1-80ed-c55d06be9167" />
+
 
 
 
