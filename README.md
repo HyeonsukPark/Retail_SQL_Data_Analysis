@@ -1,4 +1,4 @@
-# SQL Data Analysis
+# Retail SQL Data Analysis
 
 ## Introduction
 A comprehensive data analysis was performed using SQL on Global's Supply Chain dataset, which encompasses a broad range of essential sales, product, and operational information. The primary objective of this investigation is to extract actionable intelligence that will enable the company to proactively address business issues, respond swiftly to market dynamics and consumer trends, and implement necessary economic adjustments to secure a competitive position.
