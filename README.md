@@ -8,6 +8,7 @@ DataCoSupplyChainDataset : [Dataset link](https://data.mendeley.com/datasets/8gx
 
 Constante, Fabian; Silva, Fernando; Pereira, António (2019), “DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS”, Mendeley Data, V5, doi: 10.17632/8gx2fvg2k6.5
 
+
 ## Tool  
 SQL Server Management Studio 2022 program with MS SQL Server
 
@@ -37,4 +38,12 @@ This process ensures the dataset is clean, well-structured, and ready for subseq
 * Percentage of Shipping Delivery by Country
 * Customer Ranks with Total Purchase
 * Sales based on Payment Type 
+
+
+## Database with Star Schema  
+The dataset was also organized as a star schema. The schema is composed of one central Fact Table and four surrounding Dimension Tables, with Dim_Customer, Dim_Product, Dim_Order, and Dim_Shipment. This structure efficiently separates measurable sales data from descriptive attributes. The four Dimension Tables are linked to the central Fact_Sales table using unique Surrogate Keys (Primary Keys in the Dimension tables, Foreign Keys in the Fact table). 
+
+The image added explains the entire schema.  
+
+<img width="842" height="721" alt="image" src="https://github.com/user-attachments/assets/07393a16-e363-4104-b766-ea27f6e0ac8a" />
 
