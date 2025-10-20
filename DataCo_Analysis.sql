@@ -1,4 +1,5 @@
-﻿
+-- NOTE: The SQL analysis was performed on the original dataset and not the proposed star schema. 
+
 -- Dataset Check
 
 -- Select all columns 
@@ -257,6 +258,7 @@ ORDER BY
 SELECT Payment_Type, SUM(Sales) AS Total_Sales
 FROM dbo.DataCo_SCM
 Group BY Payment_Type DESC
+
 
 
 
