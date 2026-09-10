@@ -67,9 +67,11 @@ The image added explains the entire schema.
 
 ## Power BI Dashboard 
 
-<img width="1333" height="751" alt="PowerBI_Analysis_1" src="https://github.com/user-attachments/assets/4ad63f1b-359e-410b-8ab9-7d272456ee1e" />
+<img width="1422" height="800" alt="image" src="https://github.com/user-attachments/assets/53ccfda2-77ab-4af0-bb80-cfde0a4339ec" />
 
-<img width="1342" height="754" alt="PowerBI_Analysis_2" src="https://github.com/user-attachments/assets/6c245eff-9014-45e1-80ed-c55d06be9167" />
+<img width="1420" height="796" alt="image" src="https://github.com/user-attachments/assets/0a85995f-067c-4997-94ae-307b5f6436ec" />
+
+
 
 
 
